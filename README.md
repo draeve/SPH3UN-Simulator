@@ -27,7 +27,7 @@
 ### Features:
 * Large variety of attack messages (randomized)
   * Self -> ~~Student~~ Enemy (flies with the pellets)
-  * ~~Student~~Enemy -> self (stuck to the enemy)
+  * ~~Student~~ Enemy -> self (stuck to the enemy)
 * Easy/Medium/Hard mode
 * Uhh, custom Edsby pictures to ensure realism?
 * You should really just play the game instead of reading this
