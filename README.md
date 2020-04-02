@@ -1,12 +1,12 @@
 # SPH3UN-Simulator
 Highly realistic representation of Grade 11 Enriched Physics
 
-###Intro page
-#####Features:
+### Intro page
+##### Features:
 * A title
 * A logo (disclaimer! not my logo! Mohan's!)
 * An elegant signature in Comic Sans (see bottom-left)
-![introduction page](/readme-img/introPage.jpg)
+![introduction page](/readme-img/introPage.jpg | width=500)
 
 ###Instructions page
 ![instructions](/readme-img/instructPage.jpg)
