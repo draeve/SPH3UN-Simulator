@@ -36,8 +36,9 @@
 
 ![play](/readme-img/play.jpg)
 
-## Death menu - has randomized death messages
+## Death menu
 ### Features:
+* has randomized death messages
 * death. that's it.
 
 
