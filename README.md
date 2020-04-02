@@ -13,8 +13,8 @@
 ![introduction page](/readme-img/introPage.jpg)
 
 
-### Instructions page
-##### Features:
+## Instructions page
+### Features:
 * Instructions!
 * WASD/Arrow Key movement
 * Introduction to point System
