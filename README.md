@@ -4,6 +4,8 @@
 
 *Disclaimer: This was made for a CodeReach application. I made this in grade 11. Mohan is our physics teacher, and she's not as bad as the game makes her out to be.* ***However*** *, all the attack messages (mostly student) were expressed at one point or another. Enjoy.*
 
+[**Video Playthrough**](http://go.yuxiqin.ca/sph3un-sim-ytdemo)
+
 ## Intro page
 ### Features:
 * A title
